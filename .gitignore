@@ -166,5 +166,6 @@ pip-log.txt
 XG_*.tar.gz
 XG_*.exe
 *.userprefs
-packages/
+packages/*
+!packages/db4o-devel.8.1.184.15492/
 test-results/
